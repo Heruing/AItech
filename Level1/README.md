@@ -17,3 +17,4 @@
   - [행렬이 뭐에요?](./AI_Math_1_What_is_matrix)
   - [경사하강법 - 순한맛](AI_Math_3_Gradient_descent_1)
   - [경사하강법 - 매운맛](AI_Math_3_Gradient_descent_2)
+
