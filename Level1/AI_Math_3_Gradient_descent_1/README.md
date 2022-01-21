@@ -1,4 +1,4 @@
-## [*](../AI_Math_Keyword/)경사하강법 - 순한맛
+## [*](https://github.com/Heruing/AItech/tree/main/Level1/AI_Math_keyword)경사하강법 - 순한맛
 
 - **미분**
   - 변수의 움직임에 따른 함수값의 변화를 측정하는 도구

@@ -1,6 +1,6 @@
 ## Level 1
 
-![overview](.\overview.png)
+![overview](README.assets/overview.png)
 
 - **Python**
   - [Basic computer class](./Python_1-1_Basic_computer_class)

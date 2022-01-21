@@ -1,4 +1,4 @@
-## 경사하강법 - 매운맛
+## [*](https://github.com/Heruing/AItech/tree/main/Level1/AI_Math_keyword)경사하강법 - 매운맛
 
 - **선형회귀 계수**
 
