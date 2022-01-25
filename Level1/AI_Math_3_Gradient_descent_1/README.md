@@ -1,9 +1,23 @@
 ## [*](https://github.com/Heruing/AItech/tree/main/Level1/AI_Math_keyword)경사하강법 - 순한맛
 
 - **미분**
+  ![image-20220121143547601](README.assets/image-20220121143547601.png)
+  
   - 변수의 움직임에 따른 함수값의 변화를 측정하는 도구
+  
   - 최적화에서 가장 많이 사용하는 기법
-  -  `sympy.diff`로 컴퓨터를 통해 계산 가능
+  
+  - `sympy.diff`로 컴퓨터를 통해 계산 가능
+  
+    ```python
+    import sympy as sym
+    from sympy.abc import x
+    
+    sym.diff(sym.poly(x**2 + 2*x + 3), x)
+    # 다항식을 x로 미분
+    ```
+  
+    
 
 
 
